@@ -1,0 +1,4 @@
+Name: Ravi Kumar
+Employer: ABC Technologies Pvt Ltd
+Monthly Income: 75000
+Employment Status: Salaried
