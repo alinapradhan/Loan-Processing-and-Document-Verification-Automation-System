@@ -17,7 +17,7 @@ Production-style reference implementation for automating loan document intake, O
 - PostgreSQL persistence using SQLAlchemy.
 - React dashboard for document upload and approval status display.
 - Dockerized deployment with Docker Compose.
-- Architecture/workflow diagram and API docs.
+- Architecture/workflow diagram and API docs. 
 
 ---
 
