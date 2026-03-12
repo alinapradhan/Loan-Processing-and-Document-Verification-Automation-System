@@ -22,7 +22,7 @@ Production-style reference implementation for automating loan document intake, O
 ---
 
 ## Repository Structure
- 
+  
 ```
 .
 ├── backend/
